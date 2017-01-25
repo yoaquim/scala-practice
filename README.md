@@ -1,2 +1,5 @@
 # scala-practice
-Practicing some Scala; mostly from https://www.scala-exercises.org.
+
+Practicing some Scala.
+
+Mostly from https://www.scala-exercises.org.
